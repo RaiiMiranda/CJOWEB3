@@ -1,0 +1,7 @@
+br\edu\ifspcjo\ads\web3\repository\CategoryRepository.class
+br\edu\ifspcjo\ads\web3\domain\model\Category.class
+br\edu\ifspcjo\ads\web3\Ex1ListaTarefasApplication.class
+br\edu\ifspcjo\ads\web3\resources\CategoryResource.class
+br\edu\ifspcjo\ads\web3\domain\model\User.class
+br\edu\ifspcjo\ads\web3\repository\UserRepository.class
+br\edu\ifspcjo\ads\web3\resources\UserResource.class
