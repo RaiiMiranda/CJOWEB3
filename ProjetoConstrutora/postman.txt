@@ -1,0 +1,35 @@
+---------------------------------------------
+-- Fazer login:
+---------------------------------------------
+
+POST - http://localhost:8080/auth/login
+
+Body -> JSON:
+
+{
+  "username": "admin@ifsp.edu.br",
+  "password": "admin"
+}
+
+---------------------------------------------
+
+Pegue o token JWT retornado
+
+GET - http://localhost:8080/users
+
+Em Authorization:
+-> Bearer Token -> Colar o token recebido
+
+---------------------------------------------
+
+
+---------------------------------------------
+-- Fazer logout:
+---------------------------------------------
+
+POST - http://localhost:8080/auth/logout
+
+---------------------------------------------
+
+
+
